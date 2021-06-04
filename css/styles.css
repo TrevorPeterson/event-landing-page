@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(204, 203, 203);
+}
+/* NavBar: */
+.navbar, #navbar{
+    background-color: whitesmoke;
+}
+.active, .contact, .about{
+    margin: 10px;
+    padding: 3px;
+    border: 1px rgb(204, 203, 203) solid;
+}
+/* Footer */
+.footer{
+    background-color: whitesmoke;
+    color: rgb(55, 55, 250);
+    text-align: center;
+}
+/*2 columns*/
+.row{
+    color: white;
+}
